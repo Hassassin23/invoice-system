@@ -23,7 +23,7 @@
 
 3. Създайте база данни `invoices_db` и импортирайте таблиците:
    ```sql
-   -- Вижте invoices_db.sql
+   -- Вижте invoices_db.sql в папка sql
    ```
 
 4. Конфигурирайте базата данни в `app/Config/Database.php`:
