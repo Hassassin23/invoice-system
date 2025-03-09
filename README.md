@@ -29,11 +29,11 @@
 4. Конфигурирайте базата данни в `app/Config/Database.php`:
    ```php
    public $default = [
-       'hostname' => 'localhost',
-       'username' => 'your_username',
-       'password' => 'your_password',
-       'database' => 'invoices_db',
-       'DBDriver' => 'MySQLi',
+        'hostname' => 'localhost',
+        'username' => 'root',
+        'password' => '',
+        'database' => 'invoices_db',
+        'DBDriver' => 'MySQLi',
    ];
    ```
 
